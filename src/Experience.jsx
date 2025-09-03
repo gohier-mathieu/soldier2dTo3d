@@ -3,7 +3,7 @@ import { Perf } from 'r3f-perf'
 import { Suspense } from 'react'
 import Placeholder from './Placeholder.jsx'
 
-import { Skull } from './skull.jsx'
+import { Skull } from './Skull.jsx'
 
 export default function Experience()
 {
